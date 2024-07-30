@@ -1,0 +1,15 @@
+carnegietechnologies.gallery_saver-core-1.6.0-0 /home/user/.gradle/caches/transforms-3/284a410c767ad6c7a2b0ffc8d8d85981/transformed/core-1.6.0/res
+carnegietechnologies.gallery_saver-jetified-window-java-1.0.0-beta04-1 /home/user/.gradle/caches/transforms-3/2a215381204751055df81b6269e717b7/transformed/jetified-window-java-1.0.0-beta04/res
+carnegietechnologies.gallery_saver-jetified-annotation-experimental-1.1.0-2 /home/user/.gradle/caches/transforms-3/3d2f03fc996c2e0aa3dee5cfa3002cd1/transformed/jetified-annotation-experimental-1.1.0/res
+carnegietechnologies.gallery_saver-coordinatorlayout-1.0.0-3 /home/user/.gradle/caches/transforms-3/5a47ec11e88a4c5989e745f27b201179/transformed/coordinatorlayout-1.0.0/res
+carnegietechnologies.gallery_saver-media-1.0.0-4 /home/user/.gradle/caches/transforms-3/6b0474d987953096ecc6b40e9d5a11d9/transformed/media-1.0.0/res
+carnegietechnologies.gallery_saver-jetified-core-ktx-1.5.0-5 /home/user/.gradle/caches/transforms-3/9dcf0882a88c4f0e3795b98343b5428c/transformed/jetified-core-ktx-1.5.0/res
+carnegietechnologies.gallery_saver-jetified-window-1.0.0-beta04-6 /home/user/.gradle/caches/transforms-3/f302e75fb7efd781bcf1a29281c188da/transformed/jetified-window-1.0.0-beta04/res
+carnegietechnologies.gallery_saver-main-7 /home/user/.pub-cache/hosted/pub.dev/gallery_saver-2.3.2/android/src/main/res
+carnegietechnologies.gallery_saver-release-8 /home/user/.pub-cache/hosted/pub.dev/gallery_saver-2.3.2/android/src/release/res
+carnegietechnologies.gallery_saver-pngs-9 /home/user/myapp/build/gallery_saver/generated/res/pngs/release
+carnegietechnologies.gallery_saver-resValues-10 /home/user/myapp/build/gallery_saver/generated/res/resValues/release
+carnegietechnologies.gallery_saver-rs-11 /home/user/myapp/build/gallery_saver/generated/res/rs/release
+carnegietechnologies.gallery_saver-mergeReleaseResources-12 /home/user/myapp/build/gallery_saver/intermediates/incremental/release/mergeReleaseResources/merged.dir
+carnegietechnologies.gallery_saver-mergeReleaseResources-13 /home/user/myapp/build/gallery_saver/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+carnegietechnologies.gallery_saver-merged_res-14 /home/user/myapp/build/gallery_saver/intermediates/merged_res/release
